@@ -1,0 +1,56 @@
+0. 목표
+집의 가전제품 3개를 추상화하여 클래스로 만들기
+객체 만들기
+값 채우기
+출력
+
+1. 추상화할 대상
+노트북
+아이패드
+핸드폰
+
+2. 추상화할 내용
+	1) 이름	: name
+	2) 모델명	: model
+	3) 크기	: inch
+	4) 무게	: weightGram
+	5) 구매가	: price
+	6) OS	: os
+	7) 메이커	: brand
+
+3. 캡슐화 시 데이터 타입
+	1) 이름	: string
+	2) 모델명	: string
+	3) 크기	: float
+	4) 무게	: float
+	5) 구매가	: int
+	6) OS	: stirng
+	7) 메이커	: string
+
+4. 넣을 값
+	1) 노트북
+		a. laptop
+		b. ASUS TUF Gaming FX504
+		c. 15.6
+		d. 2100
+		e. 1248950
+		f. Windows
+		g. ASUS
+		
+	2) 핸드폰
+		a. smartphone
+		b. Samsung Galaxy Z Flip3
+		c. 6.7
+		d. 183
+		e. 250000
+		f. Android
+		g. Samsung
+	
+	3) 아이패드
+		a. iPad
+		b. iPad 6th generation
+		c. 9.7
+		d. 469
+		e. 260000
+		f. iOS
+		g. Apple

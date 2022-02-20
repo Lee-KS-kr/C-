@@ -1,0 +1,5 @@
+﻿  간결화시험중.cpp
+D:\code workspace\C++\C++과제\간결화시험중.cpp(37,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\code workspace\C++\C++과제\간결화시험중.cpp(38,98): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\code workspace\C++\C++과제\간결화시험중.cpp(39,84): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Project2.vcxproj -> D:\code workspace\C++\C++과제\Debug\C++주말특강과제.exe
